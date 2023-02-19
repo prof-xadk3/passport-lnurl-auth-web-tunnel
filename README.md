@@ -1,4 +1,6 @@
 # passport-lnurl-auth
+~
+## It simply means - use OAUTH to implement ur "cloud" product. :|
 
 ![Build Status](https://github.com/chill117/passport-lnurl-auth/actions/workflows/ci.yml/badge.svg)
 
